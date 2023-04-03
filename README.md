@@ -1,2 +1,2 @@
-# prueva-git-pull
+# Repositorio para practicar git pull
 Prueva del comando git pull
